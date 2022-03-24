@@ -19,11 +19,11 @@
 - Twitter: [@VictoirBarh](https://twitter.com/VictoirBarh)
 - LinkedIn: [Victoir barherenduba](https://www.linkedin.com/in/victor-emmanuel-barh-a93900200/)
 
-👤 **Temi**
+👤 **Temitope Ogunleye**
 
-- GitHub: [@vic778](https://github.com/vic778)
-- Twitter: [@VictoirBarh](https://twitter.com/VictoirBarh)
-- LinkedIn: [Victoir barherenduba](https://www.linkedin.com/in/victor-emmanuel-barh-a93900200/)
+- GitHub: [@githubhandle](https://github.com/topeogunleye)
+- Twitter: [@twitterhandle](https://twitter.com/topeogunleye21)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ogunleye)
 
 ## 🤝 Contributing
 
