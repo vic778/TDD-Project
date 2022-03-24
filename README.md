@@ -1,4 +1,4 @@
-# school-library
+# TDD
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
@@ -19,11 +19,17 @@
 - Twitter: [@VictoirBarh](https://twitter.com/VictoirBarh)
 - LinkedIn: [Victoir barherenduba](https://www.linkedin.com/in/victor-emmanuel-barh-a93900200/)
 
+👤 **Temi**
+
+- GitHub: [@vic778](https://github.com/vic778)
+- Twitter: [@VictoirBarh](https://twitter.com/VictoirBarh)
+- LinkedIn: [Victoir barherenduba](https://www.linkedin.com/in/victor-emmanuel-barh-a93900200/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/vic778/school-library).
+Feel free to check the [issues page](https://github.com/vic778/TDD-PROJECT).
 
 ## Show your support
 
